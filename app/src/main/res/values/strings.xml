@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestoreFragment</string>
+
+    <string name="hello_blank_fragment0">Hello blank fragment0</string>
+    <string name="hello_blank_fragment1">Hello blank fragment1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+</resources>
